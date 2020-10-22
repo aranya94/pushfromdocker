@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Sample file to check if git push from inside container is possible.This should be automatically pushed
+=======
+Sample file to check if git push from inside container is possible
+>>>>>>> 1247927c74c306555b63300f86b1a0e5125df122
+
+This should not ask for password then
