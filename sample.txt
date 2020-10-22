@@ -1,0 +1,1 @@
+Sample file to check if git push from inside container is possible
